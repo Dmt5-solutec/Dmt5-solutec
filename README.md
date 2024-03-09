@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+<img src="https://i.ibb.co/gRcbTmM/1-removebg-preview-2.png"> 
+  <p align="center">Estamos prontos para solucionar seus problemas</p></h1>
+ 
 
-<!--
-**Dmt5-solutec/Dmt5-solutec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> ⚡️ Equipe: ⚡️</h2>
+<p>Residentes em Tecnologia da Informação e Comunicação:<br>
+  <br>
+  👽 Deborah Marinho<br>
+  👽 Douglas Pangaro <br>
+  👽 Michele Pontes <br>
+  👽 Thiago Silva <br>
+  👽 Juan Sales<br></p>
 
-Here are some ideas to get you started:
+  <h2 align="center"> Contato: </h2>
+  <p></p>
+<div align="center">
+   <a href = "mailto:dmt5solutec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <h2 align="center">:eyes: Contador de visitas  :eyes:</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dmt5-solutec}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h2 align="center"> ⚡️ Desempenho: ⚡️</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dmt5-solutec&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+ <img height="180em" style.display="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmt5-solutec&layout=compact&langs_count=7&theme=transparent"/>
+</div>
