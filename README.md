@@ -12,8 +12,8 @@
   👽 Thiago Silva <br>
   👽 Juan Sales<br></p>
 
-  <h2 align="center"> Contato: </h2>
-  <p></p>
+  <h2 align="center"> 📱 Contato: 📱 </h2>
+  
 <div align="center">
    <a href = "mailto:dmt5solutec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <h2 align="center">:eyes: Contador de visitas  :eyes:</h2>
